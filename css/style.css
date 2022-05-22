@@ -1,0 +1,139 @@
+.barra_superior {
+    border-bottom: 1px solid black;
+    padding: 10px;
+    background-color:gainsboro;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 100%;
+    width: 85%;
+    margin: 0 auto;
+    
+}
+
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+nav {
+    color: darkgrey;
+    font-size: 15px;
+    float: right;
+    margin-top: 50px;
+    text-align: center;
+}
+
+nav a {
+    color: darkgrey;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.btn_destaque {
+    background-color: brown;
+    color: white;
+    padding: 12px 40px;
+    border-color: black;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.sec01 {
+    height: 880px;
+    color: white;
+    background-color: rgb(34, 34, 34);
+    width: 100%;
+    float: left;
+    padding-left: 50px;
+
+
+}
+
+
+.sec01 p.titulo {
+    font-size: 48px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.sec01 p {
+    font-size: 30px;
+    padding-bottom: 30px;
+    line-height: 120%;
+}
+
+.sec02 .img {
+    width: 100%;
+    border-bottom: 1000;
+    border-top: 1000;
+}
+
+.sec02 p {
+    font-size: 30px;
+
+}
+
+.sec02 {
+    border-bottom: 1px solid darkgrey;
+
+}
+
+.sec03 {
+    background-color: rgb(64, 64, 64);
+    height: 350px;
+    width: 100%;
+    float: left;
+}
+
+.top{
+    text-align: justify;
+}
+.clearfix {
+    clear: both;
+}
+
+.home2 {
+    background-image: url(../img/home2.png);
+    height: 1000px;
+    width: 52%;
+    float: right;
+    background-repeat: no-repeat;
+}
+.direitos{
+    background-color: black;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-size: 15px;
+}
+.fundo
+{
+    background-image: url(../img/fundo.png);
+
+}
+.venha
+{
+    color: white;
+    background-color: rgb(34, 34, 34);
+    max-width: 100%;
+    width: 100%;
+    padding-top: 20px;
+    height: 350px;
+    
+}
+.onde {
+    color: white;
+    background-color: rgb(34, 34, 34);
+    max-width: 100%;
+    width: 100%;
+    padding-top: 20px;
+    height: 450px;
+}
+.ronde {
+    color: black;
+}
